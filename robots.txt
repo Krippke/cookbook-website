@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://cookbook.manuel-holzrichter.de/sitemap.xml
